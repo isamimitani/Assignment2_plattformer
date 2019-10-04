@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Platformer</string>
+    <string name="stage_width">1280</string>
+    <string name="stage_height">720</string>
+    <string name="meter_to_show_x">16</string>
+    <string name="meter_to_show_y">0</string>
+    <string name="bgcolor_red">135</string>
+    <string name="bgcolor_green">206</string>
+    <string name="bgcolor_blue">235</string>
+    <string name="target_height">360</string>
+    <string name="max_delta">0.48</string>
+    <string name="gravity">40</string>
+    <string name="default_dimension">1</string>
+    <string name="player_run_speed">6</string>
+    <string name="min_input_to_turn">0.05</string>
+    <string name="nullsprite">nullsprite</string>
+    <string name="player_bitmap_name">yellowleft1</string>
+    <string name="background_bitmap_name">background</string>
+    <string name="ground_bitmap_name">ground</string>
+    <string name="ground_left_bitmap_name">ground_left</string>
+    <string name="ground_right_bitmap_name">ground_right</string>
+    <string name="max_streams">3</string>
+    <string name="default_sfx_volume">1</string>
+    <string name="default_music_volume">0.6</string>
+    <string name="sounds_pref_key">sounds_pref_key</string>
+    <string name="music_pref_key">music_pref_key</string>
+<!--    <string name=""></string>-->
+<!--    <string name=""></string>-->
+</resources>
